@@ -1,5 +1,5 @@
 # Project: Startup Site
-A Website built during the Advanced Web Developer Bootcamp on Udemy
+A Website built during the **Advanced Web Developer Bootcamp** on Udemy
 
 ## Techniques practiced:
 * Flexbox
